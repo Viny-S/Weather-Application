@@ -14,7 +14,7 @@ A modern weather application built with **Spring Boot 4.0.0** and **React** that
 
 ## 🛠️ Technologies Used
 
-- **Backend:** Spring Boot 4.0.0, Java 17
+- **Backend:** Spring Boot 4.0.0, Java 21
 - **Frontend:** React 18, Tailwind CSS
 - **API:** OpenWeatherMap API
 - **Build Tool:** Maven
@@ -23,7 +23,7 @@ A modern weather application built with **Spring Boot 4.0.0** and **React** that
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.6+
 - OpenWeatherMap API key (free)
 
